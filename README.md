@@ -1,6 +1,6 @@
 # Election      
-code ---> in master 
-![Uploading image.png…]()         
+code ---> in master     
+      
 
 ![image](https://github.com/eyatab/Election/assets/79045818/3d01b550-c770-45e7-9cf5-983f86ea6e43)         
 
